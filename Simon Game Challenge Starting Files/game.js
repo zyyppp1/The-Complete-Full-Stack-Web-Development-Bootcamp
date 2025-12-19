@@ -4,7 +4,7 @@ var userClickedPattern = [];
 var level = 0;
 var started = false;
 
-function nextSequence() {
+function nextSequence() { abc
 
   var randomNumber = Math.floor(Math.random() * 4);
   var randomChosenColour = buttonColours[randomNumber];
